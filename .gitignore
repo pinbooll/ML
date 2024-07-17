@@ -1,2 +1,5 @@
-**/.DS_Store
-**/catboost.info/
+# Mac DS_Store Files
+.DS_Store
+src/.DS_Store
+
+src/catboost_info/
