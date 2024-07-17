@@ -1,6 +1,6 @@
 # Mac DS_Store Files
 .DS_Store
-src/.DS_Store
+crs/.DS_Store
 Data/.DS_Store
 
-src/catboost_info/
+crs/catboost_info/
